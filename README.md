@@ -1,25 +1,25 @@
 # Cmpg-323-Overview---31304923
 # Project Repository Information
 
-This repository contains a collection of projects and coursework for [Class Name]. Each project is organized in its respective repository. Below is a list of the projects along with their corresponding repositories:
+This repository contains a collection of projects and coursework for CMPG 323. Each project is organized in its respective repository. Below is a list of the projects along with their corresponding repositories:
 
-## Project 1: [Project Name 1]
-- Repository: [Link to Project 1 Repository]
-- Description: [Brief description of the project]
+## Project 1: Project Name 1
+- Repository: 
+- Description:
 
-## Project 2: [Project Name 2]
-- Repository: [Link to Project 2 Repository]
-- Description: [Brief description of the project]
+## Project 2: Project Name 2
+- Repository: 
+- Description: 
 
-## Project 3: [Project Name 3]
-- Repository: [Link to Project 3 Repository]
-- Description: [Brief description of the project]
+## Project 3: Project Name 3
+- Repository: 
+- Description: 
 
-## Project 4: [Project Name 4]
-- Repository: [Link to Project 4 Repository]
-- Description: [Brief description of the project]
+## Project 4: Project Name 4
+- Repository: 
+- Description: 
 
-## Project 5: [Project Name 5]
+## Project 5: Project Name 5
 - Description: 
 
 ## Exam (POE) Submission:
